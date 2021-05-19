@@ -1,0 +1,17 @@
+import Logo from './log.png'
+import BackgroundSplash from './bg_splash.png'
+import Epasien from './epasien.png'
+import NmRsas from './nm_rs.png'
+import Tagline from './tagline.png'
+import ImageHeader from './header.png'
+import LogoPutih from './logo_white.png'
+import Check from './check.png'
+import Uncheck from './uncheck.png'
+import LogoColor from './log1.png'
+import Email from './email.png'
+import Password from './unlock.png'
+import Background from './BG.png'
+import Logone from './logone.png'
+import Profil from './patient.png'
+
+export {Profil,Logone,Background,Email, Password,LogoColor,Logo, BackgroundSplash, Epasien,NmRsas, Tagline, ImageHeader,LogoPutih, Check, Uncheck}
